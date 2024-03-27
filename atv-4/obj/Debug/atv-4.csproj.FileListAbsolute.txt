@@ -1,0 +1,7 @@
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 2\atv-3\atv-4\bin\Debug\atv-4.exe.config
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 2\atv-3\atv-4\bin\Debug\atv-4.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 2\atv-3\atv-4\bin\Debug\atv-4.pdb
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 2\atv-3\atv-4\obj\Debug\atv-4.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 2\atv-3\atv-4\obj\Debug\atv-4.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 2\atv-3\atv-4\obj\Debug\atv-4.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 2\atv-3\atv-4\obj\Debug\atv-4.pdb
