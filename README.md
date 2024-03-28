@@ -1,5 +1,4 @@
-# CSharp-TPTE-2
-Exercicios do trabalho pratico 2 de Orientação a Objetos
+
 # CSharp-TPTE-2
 Exercicios do trabalho pratico 2 de Orientação a Objetos
 Utilização de Matrizes em C#
