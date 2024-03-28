@@ -16,9 +16,10 @@ Atv4: Ordenação Alfabética Reversa de Países:
 <p>
     - O programa registra em uma matriz os nomes dos países informados pelo usuário;
     - o programa imprime os paises em ordem decrescente ( de Z até A)
-</p><br>
+</p>
 
 Atv5: Soma de Números em uma Matriz; <br>
+
 Atv6: Remoção de Cidades com a Letra 'S': <br>
 <p>
     -O programa usa uma matriz para armazenar os nomes de cidades que 
