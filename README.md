@@ -29,14 +29,14 @@ Atv6: Remoção de Cidades com a Letra 'S': <br>
 </p> <br>
 Atv7: Remoção de Números Ímpares em uma Matriz;<br><br>
 Atv8: Contagem de Países com Mais de 10 Letras;<br><br>
-Atv9: Contagem de Cores Primárias:
+Atv9: Contagem de Cores Primárias:<br>
 <p>
     - O programa armazena nomes de cores informadas pelo usuário 
       em uma matriz;<br>
     - O programa imprime quantas cores primárias( Azul, Vermelho e Amarelo)
       foram inseridas.<br>
 </p>
-Atv10: Primeira e Última Fruta na Matriz:
+Atv10: Primeira e Última Fruta na Matriz:<br>
 <p>
     - O programa armazena nomes de frutas informadas pelo usuário em uma matriz;
     - O programa exibe qual é a primeira e a última fruta da matriz.
