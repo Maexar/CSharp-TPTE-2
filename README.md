@@ -27,8 +27,8 @@ Atv6: Remoção de Cidades com a Letra 'S': <br>
     - Após a inserção, o programa remove todas as cidades iniciadas por 
       'S' e imprime a matriz atualizada.<br>
 </p> <br>
-Atv7: Remoção de Números Ímpares em uma Matriz;
-Atv8: Contagem de Países com Mais de 10 Letras;
+Atv7: Remoção de Números Ímpares em uma Matriz;<br>
+Atv8: Contagem de Países com Mais de 10 Letras;<br>
 Atv9: Contagem de Cores Primárias:
 <p>
     - O programa armazena nomes de cores informadas pelo usuário 
