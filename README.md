@@ -35,9 +35,7 @@ Atv9: Contagem de Cores Primárias:
       em uma matriz;<br>
     - O programa imprime quantas cores primárias( Azul, Vermelho e Amarelo)
       foram inseridas.<br>
-
 </p>
-
 Atv10: Primeira e Última Fruta na Matriz:
 <p>
     - O programa armazena nomes de frutas informadas pelo usuário em uma matriz;
